@@ -4,7 +4,7 @@
 **marlar-tz/marlar-tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫 About Me:
-🤓 I'm a final-year Computer Science student at the University of London <br>🖥️ I'm currently learning front end development and database management system <br>😄 I'm also interested in machine learning , natural language processing and data science <br>👯 I’m looking to collaborate on open source projects 
+🤓 I'm a final-year Computer Science student at the University of London <br>🖥️ I'm currently learning web development and database management system <br>😄 I'm also interested in machine learning , natural language processing and data science <br>👯 I’m looking to collaborate on open source projects 
 
 
 ## 🌐 Socials:
