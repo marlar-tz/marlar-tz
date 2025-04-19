@@ -18,10 +18,19 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlar-tz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-| Project Name | Focus on | Technologies used |
-| ------------ | -------- | ----------------- |
-| Fake News Detection | `Machine Learning`| **Python,Scikit-learn,Pandas,Flask,HTML,CSS,AJAX** |
-| Mapty | `Javascript` | **HTML,CSS,Javascript** |
+| Project Name | Focus on | Technologies used | link |
+| ------------ | -------- | ----------------- | ---- |
+| Fake News Detection | `Machine Learning`| **Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX** | [Link](https://github.com/marlar-tz/Fake-News-Detection) |
+| Mapty | `Javascript` | **HTML , CSS , Javascript** |
+| Guess The Number | `Javascript` | **HTML , CSS , Javascript** |
+| Data analysis on Electrical Provision | `RDBMS` | **HTML , CSS , MySQL , Node.js** |
+| Web Blog Frontend | `Frontend` | **HTML , CSS** |
+| Result Summary Component | `Frontend` | **HTML , CSS** |
+| Blog Preview Page | `Frontend` | **HTML , CSS** |
+| QR Code Component Page | `Frontend` | **HTML , CSS** |
+| Social Link Profile Page | `Frontend` | **HTML , CSS** |
+| Responsive Recipe Page | `Frontend` | **HTML , CSS** |
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marlar-tz&icon=0&color=0)](https://visitcount.itsvg.in)
