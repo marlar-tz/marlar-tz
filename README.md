@@ -18,10 +18,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlar-tz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Cell 1   | Cell 2   |
-| Cell 3   | Cell 4   |
+| Project Name | Focus on | Technologies used |
+| ------------ | -------- | ----------------- |
+| Fake News Detection | `Machine Learning`| **Python,Scikit-learn,Pandas,Flask,HTML,CSS,AJAX** |
+| Mapty | `Javascript` | **HTML,CSS,Javascript** |
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marlar-tz&icon=0&color=0)](https://visitcount.itsvg.in)
