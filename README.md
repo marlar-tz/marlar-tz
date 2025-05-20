@@ -25,6 +25,7 @@
 | [Guess The Number](https://github.com/marlar-tz/Guess_The_Number_Javascript) | `Javascript` | **HTML , CSS , Javascript** |
 | [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | `RDBMS` | **HTML , CSS , MySQL , Node.js , Express.js** |
 | [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | `Backend` | **HTML , CSS , SQLite3 , Node.js , Express.js** |
+| [Jumping Cube](https://github.com/marlar-tz/jumping-cube) | `Frontend` | **HTML , CSS** |
 | [Web Blog Frontend](https://github.com/marlar-tz/Web_Blog_Frontend) | `Frontend` | **HTML , CSS** |
 | [Result Summary Component](https://github.com/marlar-tz/Result_Summary_Component-Frontend) | `Frontend` | **HTML , CSS** |
 | [Blog Preview Page](https://github.com/marlar-tz/Blog_Preview_Page_Frontend) | `Frontend` | **HTML , CSS** |
