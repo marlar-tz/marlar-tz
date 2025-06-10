@@ -23,8 +23,8 @@
 | [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection) | `Machine Learning`| **Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX** | 
 | [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | `RDBMS` | **HTML , CSS , MySQL , Node.js , Express.js** |
 | [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | `Backend` | **HTML , CSS , SQLite3 , Node.js , Express.js** |
-| [CSS Practice Projects](https://github.com/marlar-tz/CSS-Practice-Projects) | `Frontend` | **HTML , CSS** |
-| [Javascript Practice Projects](https://github.com/marlar-tz/Javascript-Practice-Projects) | `Frontend` | **HTML , CSS , Javascript** |
+| [CSS Projects](https://github.com/marlar-tz/CSS-Practice-Projects) | `Frontend` | **HTML , CSS** |
+| [Javascript Projects](https://github.com/marlar-tz/Javascript-Practice-Projects) | `Frontend` | **HTML , CSS , Javascript** |
 
 
 
