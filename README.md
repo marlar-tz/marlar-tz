@@ -21,17 +21,11 @@
 | Project Name | Focus on | Technologies used | 
 | ------------ | -------- | ----------------- | 
 | [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection) | `Machine Learning`| **Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX** | 
-| [Mapty](https://github.com/marlar-tz/Mapty_Javascript) | `Javascript` | **HTML , CSS , Javascript** |
-| [Guess The Number](https://github.com/marlar-tz/Guess_The_Number_Javascript) | `Javascript` | **HTML , CSS , Javascript** |
 | [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | `RDBMS` | **HTML , CSS , MySQL , Node.js , Express.js** |
 | [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | `Backend` | **HTML , CSS , SQLite3 , Node.js , Express.js** |
-| [Jumping Cube](https://github.com/marlar-tz/jumping-cube) | `Frontend` | **HTML , CSS** |
-| [Web Blog Frontend](https://github.com/marlar-tz/Web_Blog_Frontend) | `Frontend` | **HTML , CSS** |
-| [Result Summary Component](https://github.com/marlar-tz/Result_Summary_Component-Frontend) | `Frontend` | **HTML , CSS** |
-| [Blog Preview Page](https://github.com/marlar-tz/Blog_Preview_Page_Frontend) | `Frontend` | **HTML , CSS** |
-| [QR Code Component Page](https://github.com/marlar-tz/QR_Code_Component_Page_Frontend) | `Frontend` | **HTML , CSS** |
-| [Social Link Profile Page](https://github.com/marlar-tz/Social_Link_Profile_Page_Frontend) | `Frontend` | **HTML , CSS** |
-| [Responsive Recipe Page](https://github.com/marlar-tz/Responsive_Recipe_Page_Frontend) | `Frontend` | **HTML , CSS** |
+| [CSS Practice Projects](https://github.com/marlar-tz/CSS-Practice-Projects) | `Frontend` | **HTML , CSS** |
+| [Javascript Practice Projects](https://github.com/marlar-tz/Javascript-Practice-Projects) | `Frontend` | **HTML , CSS , Javascript** |
+
 
 
 ---
