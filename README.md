@@ -4,7 +4,7 @@
 **marlar-tz/marlar-tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫 About Me:
-🤓 I'm a final-year Computer Science student at the University of London. <br>🙋‍♀️ Currently looking for opportunities to work on web development to contribute.<br>🖥️ Have a strong basic knowledge of HTML,CSS, Javascript, Python and DBMS.
+🤓 I'm a final-year Computer Science student at the University of London. <br>🙋‍♀️ Currently looking for opportunities to work on web development to contribute.<br>🖥️ Enjoy turning ideas into real-life projects using HTML, CSS, and JavaScript
 
 
 ## 🌐 Socials:
@@ -39,14 +39,20 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marlar-tz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlar-tz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📚 Projects:
-| Project Name | Focus on | Technologies used | 
+# Projects:
+## Big 📚:
+| Project Name | Info | Technologies used | 
 | ------------ | -------- | ----------------- | 
-| [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection) | `Machine Learning`| **Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX** | 
-| [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | `RDBMS` | **HTML , CSS , MySQL , Node.js , Express.js** |
-| [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | `Backend` | **HTML , CSS , SQLite3 , Node.js , Express.js** |
-| [CSS Projects](https://github.com/marlar-tz/CSS-Practice-Projects) | `Frontend` | **HTML , CSS** |
-| [Javascript Projects](https://github.com/marlar-tz/Javascript-Practice-Projects) | `Frontend` | **HTML , CSS , Javascript** |
+| [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection) | A complete shopping experience with cart functionality, checkout, and login system.  | `Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX` | 
+| [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | Interactive word game using API fetch, keyboard inputs, and animated feedback.   | `HTML , CSS , MySQL , Node.js , Express.js` |
+| [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | Enter a book title and ISBN to add it to a virtual shelf dynamically.  | `HTML , CSS , SQLite3 , Node.js , Express.js` |
+
+## Small 📑:
+| Project  | Learning materials | Technologies used |
+| ------------ | -------- | ----------------- | 
+| [CSS Projects](https://github.com/marlar-tz/CSS-Practice-Projects) | - Responsive Card Layouts <br> - Creative Button Hover Effects <br> - Flexbox & Grid Challenges | `HTML , CSS` |
+| [Javascript Projects](https://github.com/marlar-tz/Javascript-Practice-Projects) | - Modal Popups <br> - Sliders & Image Galleries <br> - Form Validation | `HTML , CSS , Javascript` |
+
 
 
 
