@@ -40,14 +40,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlar-tz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Projects:
-## Big 📚:
+## Big projects 📚:
 | Project Name | Info | Technologies used | 
 | ------------ | -------- | ----------------- | 
-| [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection) | A complete shopping experience with cart functionality, checkout, and login system.  | `Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX` | 
-| [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | Interactive word game using API fetch, keyboard inputs, and animated feedback.   | `HTML , CSS , MySQL , Node.js , Express.js` |
-| [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | Enter a book title and ISBN to add it to a virtual shelf dynamically.  | `HTML , CSS , SQLite3 , Node.js , Express.js` |
+| [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection) | A Fake News Detection web app that predicts whether a news article is fake or real, and highlights the most influential words and key features contributing to the prediction.  | `Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX` | 
+| [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | A web application focuses on analyzing and modeling data related to electrical provision, allowing users to query and explore insights through an interactive interface, with a primary focus on database management using MySQL.| `HTML , CSS , MySQL , Node.js , Express.js` |
+| [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | A deployable single-user blogging web app with separate author and reader pages, allowing the author to write, draft, and publish articles, while readers can browse, like, and comment on published posts.  | `HTML , CSS , SQLite3 , Node.js , Express.js` |
 
-## Small 📑:
+## Small projects 📑:
 | Project  | Learning materials | Technologies used |
 | ------------ | -------- | ----------------- | 
 | [CSS Projects](https://github.com/marlar-tz/CSS-Practice-Projects) | - Responsive Card Layouts <br> - Creative Button Hover Effects <br> - Flexbox & Grid Challenges | `HTML , CSS` |
