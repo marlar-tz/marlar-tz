@@ -48,12 +48,14 @@
 | [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | A deployable single-user blogging web app with separate author and reader pages, allowing the author to write, draft, and publish articles, while readers can browse, like, and comment on published posts.  | `HTML , CSS , SQLite3 , Node.js , Express.js` |
 
 ## Challenge projects 📑:
+- CSS Projects from [Frontend Mentor](https://www.frontendmentor.io/challenges) -> https://github.com/marlar-tz/CSS-Practice-Projects
+- Javascript Projects Collection -> https://github.com/marlar-tz/Javascript-Practice-Projects
+<!--
 | Project  | Learning materials | Technologies used |
 | ------------ | -------- | ----------------- | 
 | [CSS Projects](https://github.com/marlar-tz/CSS-Practice-Projects) | - Responsive Card Layouts <br> - Creative Button Hover Effects <br> - Flexbox & Grid Challenges | `HTML , CSS` |
 | [Javascript Projects](https://github.com/marlar-tz/Javascript-Practice-Projects) | - Modal Popups <br> - Sliders & Image Galleries <br> - Form Validation | `HTML , CSS , Javascript` |
-
-
+-->
 
 
 ---
