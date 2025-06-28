@@ -4,7 +4,7 @@
 **marlar-tz/marlar-tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫 About Me:
-🤓 I am a graduating Computer Science student from the University of London. <br>🙋‍♀️ Currently looking for opportunities to work on web development to contribute.<br>🖥️  Passionate about building user-friendly, accessible websites and constantly improving my skills in front-end technologies.
+🤓 I am recently completed my Computer Science degree at the University of London. <br>🙋‍♀️ Currently looking for opportunities to work on web development to contribute.<br>🖥️  Passionate about building user-friendly, accessible websites and constantly improving my skills in front-end technologies.
 
 
 ## 🌐 Socials:
@@ -40,17 +40,32 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marlar-tz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marlar-tz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Projects:
-## Personal projects 📚:
-| Project Name | Info | Technologies used | 
+# My Projects:
+## Personal Projects 📚:
+| Project Name | Description | Technologies used | 
 | ------------ | -------- | ----------------- | 
 | [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection) | A Fake News Detection web app that predicts whether a news article is fake or real, and highlights the most influential words and key features contributing to the prediction.  | `Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX` | 
 | [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | A web application focuses on analyzing and modeling data related to electrical provision, allowing users to query and explore insights through an interactive interface, with a primary focus on database management using MySQL.| `HTML , CSS , MySQL , Node.js , Express.js` |
 | [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | A deployable single-user blogging web app with separate author and reader pages, allowing the author to write, draft, and publish articles, while readers can browse, like, and comment on published posts.  | `HTML , CSS , SQLite3 , Node.js , Express.js` |
 
-## Challenge projects 📑:
-- CSS Projects from Frontend Mentor -> https://github.com/marlar-tz/CSS-Practice-Projects
-- Javascript Projects Collection -> https://github.com/marlar-tz/Javascript-Practice-Projects
+## Frontend Mentor Projects 📑:
+These are coding challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges) that help me improve my front-end skills. *(Total 12 projects)* <br>
+👉 [View All Frontend Mentor Projects]( https://github.com/marlar-tz/CSS-Practice-Projects)
+
+## Javascript Projects
+Mini front-end projects built to practice JavaScript logic, interactivity, and DOM manipulation.  *(Total: 11 projects)* <br>
+
+### Focus
+- Exchange Rate Calculator
+- Expense Tracker
+- Guess the number game
+- Hangman Game
+- Mapty ( mini workout data storage app)
+- Meal Finder
+- Movie Seat Booking
+
+
+👉 [View All Javascript Projects](https://github.com/marlar-tz/Javascript-Practice-Projects)
 <!--
 | Project  | Learning materials | Technologies used |
 | ------------ | -------- | ----------------- | 
