@@ -46,7 +46,7 @@
 | ------------ | -------- | ----------------- | 
 | [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection-Model) | A Fake News Detection web app that predicts whether a news article is fake or real, and highlights the most influential words and key features contributing to the prediction.  | `Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX` | 
 | [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | A web application focuses on analyzing and modeling data related to electrical provision, allowing users to query and explore insights through an interactive interface, with a primary focus on database management using MySQL.| `HTML , CSS , MySQL , Node.js , Express.js` |
-| [Blog Management System](https://github.com/marlar-tz/Blog_Management_System_Backend) | A deployable single-user blogging web app with separate author and reader pages, allowing the author to write, draft, and publish articles, while readers can browse, like, and comment on published posts.  | `HTML , CSS , SQLite3 , Node.js , Express.js` |
+| [SkillBuild](https://github.com/marlar-tz/SkillBuild) | A web application designed to connect extracurricular freelance instructors with interested students. The platform allows instructors to create and manage their profiles, while students can easily search for instructors that best match their learning needs and preferences.  | `EJS, HTML, CSS, JavaScript, Vue.js, Bootstrap, and SQLite3` |
 
 ## Frontend Mentor Projects 📑:
 These are coding challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges) that help me improve my front-end skills. *(Total 12 projects)* <br>
