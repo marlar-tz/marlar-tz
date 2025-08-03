@@ -8,8 +8,6 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlar-thein-zaw)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/marlartz001)
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%233F54A3.svg?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/marlar-tz)
 
 # 💻 Tech Stack:
