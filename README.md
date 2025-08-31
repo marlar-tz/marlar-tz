@@ -56,7 +56,6 @@ Mini front-end projects built to practice JavaScript logic, interactivity, and D
 ### Focus
 - Exchange Rate Calculator
 - Expense Tracker
-- Guess the number game
 - Hangman Game
 - Mapty ( mini workout data storage app)
 - Meal Finder
