@@ -4,7 +4,7 @@
 **marlar-tz/marlar-tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 💫 About Me:
-🙋‍♀️ Looking for opportunities to work on web development to contribute.<br>🖥️  Passionate about building user-friendly, accessible websites and constantly improving my skills in front-end technologies.
+🙋‍♀️ Looking for opportunities to work on web development to contribute.<br>🖥️  Passionate about building user-friendly, accessible websites and constantly improving my skills in web development.
 
 
 ## 🌐 Socials:
