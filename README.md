@@ -37,9 +37,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marlar-tz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlar-tz&show_icons=true&theme=transparent)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marlar-tz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marlar-tz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlar-tz&hide_progress=true&theme=dark#gh-dark-mode-only)
 
 # My Projects:
 ## Personal Projects 📚:
