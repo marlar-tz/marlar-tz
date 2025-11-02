@@ -1,17 +1,22 @@
-## Hi 👋, I am Marlar !
+# Hi 👋, I am Marlar !
 
 <!--
 **marlar-tz/marlar-tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 💫 About Me:
+## 💫 About Me:
 🙋‍♀️ Looking for opportunities to work on web development to contribute.<br>🖥️  Passionate about building user-friendly, accessible websites and constantly improving my skills in web development.
+
+## 🐾 Fun Fact: Debugging in real life  
+> “My condition when I discover another bug I *swore* didn’t exist.”
+ 
+![Debugging mode](https://github.com/marlar-tz/git-for-readme/blob/main/Melting%20Hot%20Dog%20GIF.gif)
 
 
 ## 🌐 Socials:
 [![Frontend Mentor](https://img.shields.io/badge/Frontend_Mentor-%233F54A3.svg?logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/marlar-tz)
 
-# 💻 Tech Stack:
-## Front-end 
+## 💻 Tech Stack:
+### Front-end 
 ![JavaScript](https://img.shields.io/badge/javascript-%23efd81d.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%e9c46a) 
@@ -21,15 +26,15 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Back-end 
+### Back-end 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
-## Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Machine Learning
+### Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -37,28 +42,28 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23e76f51.svg?style=for-the-badge&logo=Matplotlib&logoColor=%23e76f51)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlar-tz&show_icons=true&theme=transparent)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marlar-tz&theme=dark&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marlar-tz&hide_progress=true&theme=dark#gh-dark-mode-only)
 
-# My Projects:
-## Personal Projects 📚:
+## My Projects:
+### Personal Projects 📚:
 | Project Name | Description | Technologies used | 
 | ------------ | -------- | ----------------- | 
 | [Fake News Detection](https://github.com/marlar-tz/Fake-News-Detection-Model) | A Fake News Detection web app that predicts whether a news article is fake or real, and highlights the most influential words and key features contributing to the prediction.  | `Python , Scikit-learn , Pandas , Flask , HTML , CSS , AJAX` | 
 | [Data analysis on Electrical Provision](https://github.com/marlar-tz/Data_analysis_on_Electrical_Provision_RDBMS) | A web application focuses on analyzing and modeling data related to electrical provision, allowing users to query and explore insights through an interactive interface, with a primary focus on database management using MySQL.| `HTML , CSS , MySQL , Node.js , Express.js` |
 | [SkillBuild](https://github.com/marlar-tz/SkillBuild) | A web application designed to connect extracurricular freelance instructors with interested students. The platform allows instructors to create and manage their profiles, while students can easily search for instructors that best match their learning needs and preferences.  | `EJS, HTML, CSS, JavaScript, Vue.js, Bootstrap, and SQLite3` |
 
-## Frontend Mentor Projects 📑:
+### Frontend Mentor Projects 📑:
 These are coding challenges from [Frontend Mentor](https://www.frontendmentor.io/challenges) that help me improve my front-end skills. *(Total 12 projects)* <br>
 👉 [View All Frontend Mentor Projects]( https://github.com/marlar-tz/CSS-Practice-Projects)
 
-## Javascript Projects
+### Javascript Projects
 Mini front-end projects built to practice JavaScript logic, interactivity, and DOM manipulation.  *(Total: 11 projects)* <br>
 
-### Focus
+#### Focus
 - Exchange Rate Calculator
 - Expense Tracker
 - Hangman Game
